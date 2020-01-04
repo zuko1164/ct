@@ -118,6 +118,27 @@
       "imglink": "http://www.gstatic.com/tv/thumb/v22vodart/35273/p35273_v_v8_bg.jpg",
       "category": "Adventure, Action, Science Fiction",
       "desc": "Anakin joins forces with Obi-Wan and sets Palpatine free from the evil clutches of Count Doku. However, he falls prey to Palpatine and the Jedis' mind games and gives into temptation."
-    }
+    },
+	{
+      "name": "Star Wars: Episode IV - A New Hope",
+      "link": "http://9092.ultratv100.com:9090/movies/Batch241/Star.Wars.Episode.IV.-.A.New.Hope.1977.720p.BluRay.x264-%5BYTS.AG%5D.mp4",
+      "imglink": "http://screenfish.net/wp-content/uploads/2015/06/newhopemain.jpg",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "After Princess Leia, the leader of the Rebel Alliance, is held hostage by Darth Vader, Luke and Han Solo must free her and destroy the powerful weapon created by the Galactic Empire."
+    },
+	{
+      "name": "The Empire Strikes Back",
+      "link": "http://dl1.perserver.site/Movie/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.Sound.Fa.mka",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "Darth Vader is adamant about turning Luke Skywalker to the dark side. Master Yoda trains Luke to become a Jedi Knight while his friends try to fend off the Imperial fleet."
+    },
+	{
+      "name": "Return of the Jedi",
+      "link": "",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "Darth Vader is adamant about turning Luke Skywalker to the dark side. Master Yoda trains Luke to become a Jedi Knight while his friends try to fend off the Imperial fleet."
+    },
 
   ]   
