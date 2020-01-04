@@ -135,10 +135,45 @@
     },
 	{
       "name": "Return of the Jedi",
-      "link": "",
-      "imglink": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "link": "http://www.isdevelopment.us/Documents/Videos/Videos-Movies/1%20-%20Series%20&%20Sagas/Star%20Wars%20-%20Complete%20Saga/06%20Star%20Wars%20Episode%20VI%20Return%20Of%20The%20Jedi%20-%20George%20Lucas%201983%20Eng%20Subs%20720p%20%5bH264-mp4%5d.mp4",
+      "imglink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTSmH4ckpqTGuLeBlI6DEnAagQq1Oha9c8fDlm2SRbcpEKZK0",
       "category": "Adventure, Action, Science Fiction",
-      "desc": "Darth Vader is adamant about turning Luke Skywalker to the dark side. Master Yoda trains Luke to become a Jedi Knight while his friends try to fend off the Imperial fleet."
+      "desc": "Luke Skywalker attempts to bring his father back to the light side of the Force. At the same time, the rebels hatch a plan to destroy the second Death Star."
+    },
+	{
+      "name": "Star Wars: The Force Awakens",
+      "link": "http://s1.expressdl.xyz/nasr/movies/2015/Star%20Wars%20Episode%20VII%20The%20Force%20Awakens/Star_Wars_The_Force_Awakens_2015_1080p_BrRip_6CH_x265_MRN_%28ExpressMovie%29.mkv",
+      "imglink": "http://s1.expressdl.xyz/nasr/movies/2015/Star%20Wars%20Episode%20VII%20The%20Force%20Awakens/Star_Wars_The_Force_Awakens_2015_1080p_BrRip_6CH_x265_MRN_%28ExpressMovie%29.mkv",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi."
     },
 
+	{
+      "name": "Star Wars: The Rise of Skywalker",
+      "link": "http://dl13.ftk.pw/user/shahab/film/St.ar.Wa.rs.Th.e.Ri.se.Of.Sky.walker.2019.h.d.ts.Film2Movie_li.mkv",
+      "imglink": "https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "When it's discovered that the evil Emperor Palpatine did not die at the hands of Darth Vader, the rebels must race against the clock to find out his whereabouts. Finn and Poe lead the Resistance to put a stop to the First Order's plans to form a new Empire, while Rey anticipates her inevitable confrontation with Kylo Ren."
+    },
+	{
+      "name": "Star Wars: The Last Jedi",
+      "link": "http://dl7.ftk.pw/film/St.ar.Wa.rs.Th.e.La.st.Je.di.2017.720p.b.lu.ry.x265.HEVC.PSA.Film2Movie_CO.mkv",
+      "imglink": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "Rey seeks to learn the ways of the Jedi under Luke Skywalker, its remaining member, to reinvigorate the Resistance's war against the First Order."
+    },
+{
+      "name": "Rogue One: A Star Wars Story",
+      "link": "http://dl3.ftk.pw/film/Rogue.One.A.Star.Wars.Story.2016.720p.BluRay.x265.HEVC.ShAaNiG.Film2Movie_BiZ.mkv",
+      "imglink": "https://contentserver.com.au/assets/491605_p11597968_p_v8_ab.jpg",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "When she's a child, Jyn's father is forcibly taken by the Empire to help them complete the Death Star. As an adult, she joins a group of resistance fighters, who aim to steal its blueprints."
+    },
+	{
+      "name": "Solo: A Star Wars Story",
+      "link": "http://dl5.dlb3d.xyz/M/Solo.A.Star.Wars.Story.2018/Solo.A.Star.Wars.Story.2018.720p.MkvCage.mkv",
+      "imglink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBMuoLzLefV60Y7cSSbcXAnLh8FVFFd5avt0kUqIxYF4ZbHlVH",
+      "category": "Adventure, Action, Science Fiction",
+      "desc": "In a galaxy where hyperfuel is in high demand, Han Solo gets involved in a large-scale heist within the criminal underworld and meets individuals who change his life."
+    }
   ]   
