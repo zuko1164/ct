@@ -5,6 +5,12 @@
     "season": "Season 1",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason1"
     },
+	 {
+    "name": "Game of Thrones season 2",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason2.json"
+    },
     {
     "name": "The Expanse Season 1",
     "image": "http://18.140.33.219/posters/TheExpanse",
