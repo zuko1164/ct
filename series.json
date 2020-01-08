@@ -53,35 +53,11 @@
     "season": "Season 8",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason8.json"
     },
-    {
-    "name": "The Expanse Season 1",
-    "image": "http://18.140.33.219/posters/TheExpanse",
-    "season": "Season 1",
-    "url": "http://18.140.33.219/episodes/TheExpanse.json"
-    },
-	{
-    "name": "The Expanse",
-    "image": "http://18.140.33.219/posters/TheExpanse",
-    "season": "Season 2",
-    "url": "http://18.140.33.219/episodes/TheExpanse2.json"
-    },
-	{
-    "name": "The Expanse",
-    "image": "http://18.140.33.219/posters/TheExpanse",
-    "season": "Season 3",
-    "url": "http://18.140.33.219/episodes/TheExpanse3.json"
-    },
-	{
-    "name": "The Expanse",
-    "image": "http://18.140.33.219/posters/TheExpanse",
-    "season": "Season 4",
-    "url": "http://18.140.33.219/episodes/TheExpanse4.json"
-    },
-	{
+   	{
     "name": "The Mandalorian",
-    "image": "http://18.140.33.219/posters/mandalorian.jpg",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17612208/p17612208_b_v8_aa.jpg",
     "season": "Season 1",
-    "url": "http://18.140.33.219/episodes/mandalorian.json"
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/Mandalorian.json"
     },
     {
     "name": "You",
