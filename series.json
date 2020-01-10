@@ -6,10 +6,16 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/witcherseason1.json"
     },
 	 {
-    "name": "Power",
+    "name": "Power season 1",
     "image": "https://img.moviepostershop.com/power-tv-movie-poster-2014-1020773880.jpg",
     "season": "Season 1",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/powerseason1.json"
+    },
+	 {
+    "name": "Power season 2",
+    "image": "https://img.moviepostershop.com/power-tv-movie-poster-2014-1020773880.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/powerseason2.json"
     },
 	 {
     "name": "Avatar: The Last Airbender season 1",
