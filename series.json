@@ -18,6 +18,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/powerseason2.json"
     },
 	 {
+    "name": "Power season 3",
+    "image": "https://img.moviepostershop.com/power-tv-movie-poster-2014-1020773880.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/powerseason3.json"
+    },
+	 {
     "name": "Avatar: The Last Airbender season 1",
     "image": "http://www.gstatic.com/tv/thumb/tvbanners/8655176/p8655176_b_v8_aa.jpg",
     "season": "Season 1",
