@@ -18,6 +18,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/startrekseason1.json"
     },
 	 {
+    "name": "Star Trek: Discovery season 2",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/16092465/p16092465_b_v8_ab.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/startrekseason2.json"
+    },
+	 {
     "name": "Power season 1",
     "image": "https://img.moviepostershop.com/power-tv-movie-poster-2014-1020773880.jpg",
     "season": "Season 1",
