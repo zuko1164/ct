@@ -6,6 +6,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/homelandseason1.json"
     },
 	 {
+    "name": "Homeland season 2",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17402060/p17402060_b_v8_aa.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/homelandseason2.json"
+    },
+	 {
     "name": "The Witcher",
     "image": "http://www.gstatic.com/tv/thumb/tvbanners/17580215/p17580215_b_v8_ac.jpg",
     "season": "Season 1",
