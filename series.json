@@ -6,6 +6,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sexeduseason1.json"
     },
 	 {
+    "name": "DC's Legends of Tomorrow season 1",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/15660495/p15660495_b_v8_ab.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/dclegentsseason1.json"
+    },
+	 {
     "name": "Homeland season 1",
     "image": "http://www.gstatic.com/tv/thumb/tvbanners/17402060/p17402060_b_v8_aa.jpg",
     "season": "Season 1",
