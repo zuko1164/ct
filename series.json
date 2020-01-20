@@ -144,53 +144,41 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/aseason1.json"
     },
     {
-    "name": "Game of Thrones season 1",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "name": "Game Of Thrones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason1.json"
-    },
-	 {
-    "name": "Game of Thrones season 2",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "url": "https://msjfiles123.xyz/jsonfiles/seasons/got1.json"
+  },
+  {
+    "name": "Game Of Thrones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "season": "Season 2",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason2.json"
-    },
-	{
-    "name": "Game of Thrones season 3",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "url": "https://msjfiles123.xyz/jsonfiles/seasons/got2.json"
+  },
+  {
+    "name": "Game Of Thrones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "season": "Season 3",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason3.json"
-    },
-	 {
-    "name": "Game of Thrones season 4",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "url": "https://msjfiles123.xyz/jsonfiles/seasons/got3.json"
+  },
+  {
+    "name": "Game Of Thrones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "season": "Season 4",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason4.json"
-    },
-		 {
-    "name": "Game of Thrones season 5",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "url": "https://msjfiles123.xyz/jsonfiles/seasons/got4.json"
+  },
+  {
+    "name": "Game Of Thrones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "season": "Season 5",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason5.json"
-    },
-	 {
-    "name": "Game of Thrones season 6",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
+    "url": "https://msjfiles123.xyz/jsonfiles/seasons/got5.json"
+  },
+  {
+    "name": "Game Of Thrones",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
     "season": "Season 6",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason6.json"
-    },
-	 {
-    "name": "Game of Thrones season 7",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
-    "season": "Season 7",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason7.json"
-    },
-	 {
-    "name": "Game of Thrones season 8",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17021627/p17021627_b_v8_aa.jpg",
-    "season": "Season 8",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/gotseason8.json"
-    },
+    "url": "https://msjfiles123.xyz/jsonfiles/seasons/got6.json"
+  },
    	{
     "name": "The Mandalorian",
     "image": "http://www.gstatic.com/tv/thumb/tvbanners/17612208/p17612208_b_v8_aa.jpg",
