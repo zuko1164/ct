@@ -5,6 +5,13 @@
     "season": "Season 1",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sexeduseason1.json"
     },
+	
+	 {
+    "name": "Highschool of the Dead",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Highschool_of_the_Dead_vol01.jpg/220px-Highschool_of_the_Dead_vol01.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/highscldead.json"
+    },
 	 {
     "name": "DC's Legends of Tomorrow season 1",
     "image": "http://www.gstatic.com/tv/thumb/tvbanners/15660495/p15660495_b_v8_ab.jpg",
