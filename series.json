@@ -11,6 +11,42 @@
     "season": "Season 2",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sexeduseason2.json"
     },
+	 {
+    "name": "Vikings season 1",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason1.json"
+    },
+		 {
+    "name": "Vikings season 2",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason2.json"
+    },
+	 {
+    "name": "Vikings season 3",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason3.json"
+    },
+	 {
+    "name": "Vikings season 4",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg",
+    "season": "Season 4",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason4.json"
+    },
+	 {
+    "name": "Vikings season 5",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg",
+    "season": "Season 5",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason5.json"
+    },
+	 {
+    "name": "Vikings season 6",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17592918/p17592918_b_v8_aa.jpg",
+    "season": "Season 6",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason6.json"
+    },
 	
 	 {
     "name": "Highschool of the Dead",
