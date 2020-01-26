@@ -6,6 +6,24 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sexeduseason1.json"
     },
 	 {
+    "name": "SEAL Team season 1",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17047613/p17047613_b_v8_ac.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sealteamseason1.json"
+    },
+	 {
+    "name": "SEAL Team season 2",
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17047613/p17047613_b_v8_ac.jpg",
+    "season": "Season 2,
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sealteamseason2.json"
+    },
+	 {
+    "name": "SEAL Team season 3,
+    "image": "http://www.gstatic.com/tv/thumb/tvbanners/17047613/p17047613_b_v8_ac.jpg",
+    "season": "Season 3,
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sealteamseason3.json"
+    },
+	 {
     "name": "Sex Education season 2",
     "image": "https://images-na.ssl-images-amazon.com/images/I/71mQ8ELKafL._SY550_.jpg",
     "season": "Season 2",
