@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "Brooklyn Nine-Nine season 1",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17602950/p17602950_b_v8_ab.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/Brooklynninenineseason1.json"
+    },
+	 {
     "name": "Locke & Key",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17699282/p17699282_b_v8_ad.jpg",
     "season": "Season 1",
