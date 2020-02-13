@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "Chernobyl",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chernobyl.json"
+    },
+	 {
     "name": "Brooklyn Nine-Nine season 1",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17602950/p17602950_b_v8_ab.jpg",
     "season": "Season 1",
