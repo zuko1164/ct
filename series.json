@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "Hunters",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17804284/p17804284_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/hunter.json"
+    },
+	 {
     "name": "Chernobyl",
     "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Chernobyl_2019_Miniseries.jpg",
     "season": "Season 1",
