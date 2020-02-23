@@ -6,6 +6,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/daredevilseason1.json"
     },
 	 {
+    "name": "Daredevil season 2",
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/daredevil_lob_crd_02.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/daredevilseason2.json"
+    },
+	 {
     "name": "Hunters",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17804284/p17804284_b_v8_aa.jpg",
     "season": "Season 1",
