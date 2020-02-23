@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "Daredevil season 1",
+    "image": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/daredevil_lob_crd_02.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/daredevilseason1.json"
+    },
+	 {
     "name": "Hunters",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17804284/p17804284_b_v8_aa.jpg",
     "season": "Season 1",
