@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "V Wars",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17580131/p17580131_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vwars.json"
+    },
+	 {
     "name": "Our Planet",
     "image": "https://occ-0-300-299.1.nflxso.net/dnm/api/v6/XsrytRUxks8BtTRf9HNlZkW2tvY/AAAABdmAMglVGpYXvnLDpkOuPZ7h-WvXrfm1L0VsXALKNpt5tysVzekF4eDeC5A-j9i1YdMD4J3bnwwP6Tl2sisB2UNrnVzeQ81WVg.jpg",
     "season": "Season 1",
