@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "Black Bullet",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/11096789/p11096789_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/blackbullet.json"
+    },
+	 {
     "name": "Valkyria Chronicles",
     "image": "https://simkl.net/posters/59/5939374e59ccd82_ca.jpg",
     "season": "Season 1",
