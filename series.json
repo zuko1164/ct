@@ -156,12 +156,7 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/vikingseason6.json"
     },
 	
-	 {
-    "name": "Highschool of the Dead",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Highschool_of_the_Dead_vol01.jpg/220px-Highschool_of_the_Dead_vol01.jpg",
-    "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/highscldead.json"
-    },
+	 
 	 {
     "name": "DC's Legends of Tomorrow season 1",
     "image": "http://www.gstatic.com/tv/thumb/tvbanners/15660495/p15660495_b_v8_ab.jpg",
@@ -300,12 +295,7 @@
     "season": "Season 6",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/powerseason6.json"
     },
-	 {
-    "name": "Avatar: The Last Airbender season 1",
-    "image": "http://www.gstatic.com/tv/thumb/tvbanners/8655176/p8655176_b_v8_aa.jpg",
-    "season": "Season 1",
-    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/aseason1.json"
-    },
+	
     {
     "name": "Game Of Thrones season 1",
     "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_QL50_SY1000_CR0,0,674,1000_AL_.jpg",
