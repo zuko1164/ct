@@ -1,6 +1,12 @@
 [
 	 {
-    "name": "Peaky Blinders season ",
+    "name": "Peaky Blinders season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17275138/p17275138_b_v8_aa.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/pinkyblinderss3.json"
+    },
+	 {
+    "name": "Peaky Blinders season 2 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17275138/p17275138_b_v8_aa.jpg",
     "season": "Season 2",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/pinkyblinderss2.json"
