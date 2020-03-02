@@ -1,5 +1,11 @@
 [
 	 {
+    "name": "Star Wars: The Clone Wars seaon 1",
+    "image": "https://img.reelgood.com/content/show/75f3793b-202b-4fb6-bc1c-f07f7e613142/poster-780.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/starwarclonewarseason1.json"
+    },
+	 {
     "name": "Black Bullet",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/11096789/p11096789_b_v8_aa.jpg",
     "season": "Season 1",
