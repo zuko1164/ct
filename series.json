@@ -1,5 +1,24 @@
 [
 	{
+    "name": "Chilling Adventures of Sabrina season 1 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17710206/p17710206_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ChillingAdventuresofSabrinas1.json"
+    },
+	{
+    "name": "Chilling Adventures of Sabrina season 2 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17710206/p17710206_b_v8_aa.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ChillingAdventuresofSabrinas2.json"
+    },
+	{
+    "name": "Chilling Adventures of Sabrina season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17710206/p17710206_b_v8_aa.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ChillingAdventuresofSabrinas3.json"
+    },
+	
+	{
     "name": "The 100 season 1 ",
     "image": "https://m.media-amazon.com/images/M/MV5BYjBhMmRjZDgtOWUzYi00NWEyLWI3NDEtYjQ5OGVkNjdhNDQyXkEyXkFqcGdeQXVyNjYzNDE4ODA@._V1_.jpg",
     "season": "Season 1",
