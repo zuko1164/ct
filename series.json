@@ -1,4 +1,28 @@
 [
+{	
+    "name": "The Last Ship season 1 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/15729031/p15729031_b_v8_ab.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/lastships1.json"
+    },
+	{	
+    "name": "The Last Ship season 2 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/15729031/p15729031_b_v8_ab.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/lastships2.json"
+    },
+	{	
+    "name": "The Last Ship season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/15729031/p15729031_b_v8_ab.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/lastships3.json"
+    },
+	{	
+    "name": "The Last Ship season 4,
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/15729031/p15729031_b_v8_ab.jpg",
+    "season": "Season 4,
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/lastships4.json"
+    },
 	{
     "name": "Chilling Adventures of Sabrina season 1 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17710206/p17710206_b_v8_aa.jpg",
