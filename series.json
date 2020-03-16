@@ -5,6 +5,18 @@
     "season": "Season 1",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/narcoss1.json"
     },
+	{	
+    "name": "Narcos season 2 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/12985822/p12985822_b_v8_ad.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/narcoss2.json"
+    },
+	{	
+    "name": "Narcos season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/12985822/p12985822_b_v8_ad.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/narcoss3.json"
+    },
     {	
     "name": "The Last Ship season 1 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/15729031/p15729031_b_v8_ab.jpg",
