@@ -1,0 +1,34 @@
+[ 
+  {
+    "name": "Episode 1",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep1%5D%20Elite%20-%20Carla.mkv?alt=media&token=67253996-9058-4760-a2e5-f702c4526e5e"
+  }, 
+  {
+    "name": "Episode 2",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep2%5D%20Elite%20-%20Samuel%20and%20Guzman.mkv?alt=media&token=a2b50f5c-d94c-4efb-9a70-ae3938360b5f"
+  }, 
+  {
+    "name": "Episode 3",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep3%5D%20Elite%20-%20Cayetana%20and%20Valerio.mkv?alt=media&token=0b40f2b9-e595-4734-9bbc-26ac827c91a7"
+  }, 
+  {
+    "name": "Episode 4",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep4%5D%20Elite%20-%20Lu.mkv?alt=media&token=aad8b0e1-4029-46cd-ab4e-3e401462f210"
+  }, 
+  {
+    "name": "Episode 5",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep5%5D%20Elite%20-%20Ander.mkv?alt=media&token=61ffdf6d-9629-4ff2-ae25-d792e31c63d7"
+  }, 
+  {
+    "name": "Episode 6",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep6%5D%20Elite%20-%20Rebeca.mkv?alt=media&token=d4900e33-a552-49db-be11-96454f8e3f92"
+  }, 
+  {
+    "name": "Episode 7",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep7%5D%20Elite%20-%20Nadia%20and%20Omar.mkv?alt=media&token=752ca44b-5230-4eab-ae6c-e3ed40a6f82b"
+  }, 
+  {
+    "name": "Episode 8",
+    "url": "https://firebasestorage.googleapis.com/v0/b/majestic-lodge-255408.appspot.com/o/test%2FElite%2Fs3%2F%5BS3.Ep8%5D%20Elite%20-%20Polo.mkv?alt=media&token=ebac6b79-77a4-4653-a36d-85e707bd1f5e"
+  }
+]
