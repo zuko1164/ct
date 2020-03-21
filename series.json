@@ -1,5 +1,23 @@
 [
 	{	
+    "name": "Ash vs Evil Dead season 1 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/13705330/p13705330_b_v8_ab.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ashvsevildeads1.json"
+    },
+	{	
+    "name": "Ash vs Evil Dead season 2 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/13705330/p13705330_b_v8_ab.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ashvsevildeads2.json"
+    },
+	{	
+    "name": "Ash vs Evil Dead season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/13705330/p13705330_b_v8_ab.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ashvsevildeads3.json"
+    },
+	{	
     "name": "FBI season 1 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17047559/p17047559_b_v8_ac.jpg",
     "season": "Season 1",
