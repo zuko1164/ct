@@ -6,6 +6,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sealteams1.json"
     },
 	{	
+    "name": "SEAL Team season 2 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17047613/p17047613_b_v8_ac.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/sealteams2.json"
+    },
+	{	
     "name": "Ash vs Evil Dead season 1 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/13705330/p13705330_b_v8_ab.jpg",
     "season": "Season 1",
