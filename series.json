@@ -6,6 +6,12 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chocagofires1.json"
     },
 	{	
+    "name": "Chicago Fire season  ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17156035/p17156035_b_v8_ac.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chicaofires2.json"
+    },
+	{	
     "name": "SEAL Team season 1 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17047613/p17047613_b_v8_ac.jpg",
     "season": "Season 1",
