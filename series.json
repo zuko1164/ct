@@ -6,10 +6,28 @@
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chocagofires1.json"
     },
 	{	
-    "name": "Chicago Fire season  ",
+    "name": "Chicago Fire season 2 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17156035/p17156035_b_v8_ac.jpg",
     "season": "Season 2",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chicaofires2.json"
+    },
+	{	
+    "name": "Chicago Fire season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17156035/p17156035_b_v8_ac.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chicagofires3.json"
+    },
+	{	
+    "name": "Chicago Fire season 5 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17156035/p17156035_b_v8_ac.jpg",
+    "season": "Season 5",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chicagofires5.json"
+    },
+	{	
+    "name": "Chicago Fire season 6 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17156035/p17156035_b_v8_ac.jpg",
+    "season": "Season 6",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/chicagofires6.json"
     },
 	{	
     "name": "SEAL Team season 1 ",
