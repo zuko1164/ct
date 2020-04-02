@@ -20,8 +20,14 @@
 	{	
     "name": "Ozark season 2 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/15668760/p15668760_b_v8_aa.jpg",
-    "season": "Season ",
+    "season": "Season 2 ",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ozarks2.json"
+    },
+	{	
+    "name": "Ozark season 3 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/15668760/p15668760_b_v8_aa.jpg",
+    "season": "Season 3 ",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ozarks3.json"
     },
 	{	
     "name": "Westworld season 1 ",
