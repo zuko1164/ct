@@ -23,6 +23,12 @@
     "season": "Season 1",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/TomClancy'sJackRyans1.json"
     },
+	{	
+    "name": "Tom Clancy's Jack Ryan season 2 ",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/17351835/p17351835_b_v8_ac.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/TomClancy'sJackRyans2.json"
+    },
 		{	
     "name": "The Blacklist season 1 ",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/17156186/p17156186_b_v8_ac.jpg",
