@@ -1,5 +1,17 @@
 [
 	{	
+    "name": "The Punisher season 1",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/16414812/p16414812_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ThePunishers1.json"
+    },
+	{	
+    "name": "The Punisher season 2",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/16414812/p16414812_b_v8_aa.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/ThePunishers2.json"
+    },
+	{	
     "name": "Highschool of the Dead",
     "image": "https://upload.wikimedia.org/wikipedia/en/3/34/Highschool_of_the_Dead_vol01.jpg",
     "season": "Season 1",
