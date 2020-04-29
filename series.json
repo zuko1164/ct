@@ -1,5 +1,11 @@
 [
 	{	
+    "name": "Never Have I Ever",
+    "image": "https://www.gstatic.com/tv/thumb/tvbanners/18130842/p18130842_b_v8_aa.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/NeverHaveIEver.json"
+    },
+	{	
     "name": "The Punisher season 1",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/16414812/p16414812_b_v8_aa.jpg",
     "season": "Season 1",
