@@ -1,5 +1,35 @@
 [
 	{	
+    "name": "Better Call Saul",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/BetterCallSauls1.json"
+    },
+	{	
+    "name": "Better Call Saul",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/BetterCallSauls2.json"
+    },
+	{	
+    "name": "Better Call Saul",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/BetterCallSauls3.json"
+    },
+	{	
+    "name": "Better Call Saul",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 4",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/BetterCallSauls4.json"
+    },
+	{	
+    "name": "Better Call Saul",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+    "season": "Season 5",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/BetterCallSauls5.json"
+    },
+	{	
     "name": "Never Have I Ever",
     "image": "https://www.gstatic.com/tv/thumb/tvbanners/18130842/p18130842_b_v8_aa.jpg",
     "season": "Season 1",
