@@ -30,5 +30,11 @@
     "image": "https://m.media-amazon.com/images/M/MV5BODRjZGY3ZDktZGIxOC00MWUzLTg1N2EtNDM1NTQ2ZTkxYjc1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR191,0,630,1200_AL_.jpg",
     "season": "Season 1",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/finalspaces1.json"
+    },
+	{	
+    "name": "Final Space season 2",
+    "image": "https://m.media-amazon.com/images/M/MV5BODRjZGY3ZDktZGIxOC00MWUzLTg1N2EtNDM1NTQ2ZTkxYjc1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR191,0,630,1200_AL_.jpg",
+    "season": "Season 2",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/finalspaces2.json"
     }
    ]
