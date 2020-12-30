@@ -36,5 +36,11 @@
     "image": "https://m.media-amazon.com/images/M/MV5BODRjZGY3ZDktZGIxOC00MWUzLTg1N2EtNDM1NTQ2ZTkxYjc1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UY1200_CR191,0,630,1200_AL_.jpg",
     "season": "Season 2",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/finalspaces2.json"
+    },
+		{	
+    "name": "The Blacklist",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXfHwGsSQvrjv6r5ccVQ_oZsj85b5ezGaTyuIdBpyFllhLk5Ga",
+    "season": "Season 1",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/blacklistseason1.json"
     }
    ]
