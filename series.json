@@ -47,5 +47,11 @@
     "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXfHwGsSQvrjv6r5ccVQ_oZsj85b5ezGaTyuIdBpyFllhLk5Ga",
     "season": "Season 2",
     "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/blacklists2.json"
+    },
+	{	
+    "name": "The Blacklist season 3",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXfHwGsSQvrjv6r5ccVQ_oZsj85b5ezGaTyuIdBpyFllhLk5Ga",
+    "season": "Season 3",
+    "url": "https://raw.githubusercontent.com/zuko1164/ct/master/s/blacklists3.json"
     }
    ]
